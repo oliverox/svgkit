@@ -1,2 +1,7 @@
-svgkit
+SVGkit
 ======
+
+Setup
+-----
+npm install
+
