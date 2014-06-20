@@ -13,9 +13,7 @@ Install
 Generate SVG Sprites
 --------------------
 
-Save all SVG icons inside 
-
-    ./svgs directory.
+Save all SVG icons inside *./svgs* directory.
 
 Run
 
@@ -25,7 +23,7 @@ Run
 Injecting Sprites in HTML
 -------------------------
 
-SVGKit generates 3 files in ./dest directory
+SVGKit generates 3 files in *./dest* directory
     injectsprite.js
     sprite.svg
     spritedemo.html
