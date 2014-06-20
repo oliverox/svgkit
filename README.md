@@ -30,10 +30,11 @@ SVGKit generates 3 files in *./dest* directory
 
 Open spritedemo.html in a browser to see the generated SVG sprite.
 
-To use generated sprite into your HTML document, include the generated Javascript file into a script tag.
+To use generated sprite into your HTML document, include the generated javascript file into a script tag,
 
     <script type="text/javascript" src="injectsprite.js"></script>
 
+and create an empty div element with class name 'svg-sprite'. This div should be set as hidden and will be used as the SVG injection location.
 
 Reference the desired SVG image as follows
 
